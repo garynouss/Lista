@@ -1,4 +1,4 @@
-# Lista#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas HD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas HD
 http://live.iptv.wtf:80/live/kkuonfkz/33W5c4mYwr/2109.ts
 #EXTINF:-1 tvg-id="CL 24 HORAS" tvg-name="24 Horas SD" tvg-logo="http://logos.iptv.wtf/chile/24horas.png" group-title="Noticias",24 Horas SD
